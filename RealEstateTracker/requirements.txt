@@ -1,0 +1,37 @@
+# packaging
+pip>=9
+setuptools>=26
+twine
+wheel>=0.29
+
+# data science
+numpy
+pandas
+scikit-learn==1.0.2.
+xgboost==1.5.0
+plotly
+
+# tests/linter
+black
+coverage
+flake8
+pytest
+yapf
+
+# API
+gcsfs
+google-cloud-storage
+mlflow
+s3fs
+
+# utilities
+six>=1.14
+joblib
+memoized-property
+termcolor
+Unicode
+<<<<<<< HEAD
+unidecode
+=======
+>>>>>>> 7e6339d57af13a81adc00979490f032f096159ff
+Streamlit

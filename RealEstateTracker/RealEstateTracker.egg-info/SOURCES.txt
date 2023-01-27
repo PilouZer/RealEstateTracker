@@ -1,0 +1,42 @@
+.gitignore
+MANIFEST.in
+Makefile
+README.md
+requirements.txt
+setup.py
+.github/workflows/pythonpackage.yml
+RealEstateTracker/__init__.py
+RealEstateTracker/model.joblib
+RealEstateTracker/model_best_log.joblib
+RealEstateTracker/pipeline.py
+RealEstateTracker/preprocessing.py
+RealEstateTracker/utils.py
+RealEstateTracker.egg-info/PKG-INFO
+RealEstateTracker.egg-info/SOURCES.txt
+RealEstateTracker.egg-info/dependency_links.txt
+RealEstateTracker.egg-info/not-zip-safe
+RealEstateTracker.egg-info/requires.txt
+RealEstateTracker.egg-info/top_level.txt
+RealEstateTracker/data/.keep
+Script/scraper.py
+Script/scraper_basic.py
+Web/Makefile
+Web/app.py
+Web/dashboard.py
+Web/map.py
+Web/model.joblib
+Web/data/madrid-districts.geojson.json
+Web/streamlite/main_app.py
+Web/streamlite/pages/3_App.py
+Web/streamlite/pages/4_Dashboard.py
+Web/streamlite/pages/5_About_us.py
+dist/RealEstateTracker-1.0-py3-none-any.whl
+dist/RealEstateTracker-1.0.tar.gz
+notebooks/.keep
+notebooks/Daniel Scrapping Fotocasa.es.ipynb
+notebooks/Daniel features testing.ipynb
+notebooks/Model training.ipynb
+notebooks/Pipeline_Baseline_GridSearch.ipynb
+notebooks/Untitled.ipynb
+notebooks/model_best_log.joblib
+tests/__init__.py
